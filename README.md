@@ -12,3 +12,4 @@ the given k-mer. If the hamming distance doesn’t exceed the
 d value that is given as the input, then those k-mers are
 returned as the neighbourhood of the string.
 
+Three versions of the same algorithm with decreasing time complexity are provided.
